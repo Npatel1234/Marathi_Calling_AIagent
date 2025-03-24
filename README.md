@@ -41,7 +41,7 @@ Ensure you have the following installed:
    ```
 3. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
    ```
 4. Set up the AI4Bharat ASR model:
    - Download and place the `indic-conformer-600m-multilingual` model in the appropriate directory.
